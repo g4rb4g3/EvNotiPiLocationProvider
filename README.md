@@ -3,6 +3,7 @@ Broadcasts GPS location, timestamp and speed. Built for Hyundai Ioniq EV (28kWh)
 ![Screenshot](doc/screenshot.png)
 
 How-To:
+* Make sure the Raspberry and the head unit are using the same WiFi network!
 * Install app and enable "Broadcast GPS data"
 * Edit /etc/default/gpsd on your Raspberry according to:
 ![Screenshot](doc/gpsd.png)
